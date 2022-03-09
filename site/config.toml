@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+baseURL = "https://nang-dwirobbi.github.io/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
